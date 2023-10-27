@@ -24,7 +24,9 @@ I command a suite of powerful software tools:
 
 I'm quick on my feet and always ready to master new tools and technologies that amplify my capabilities and efficiency.
 
-Feel free to explore my repositories and reach out for any inquiries or exciting collaborations!
+#### :iphone: How to Reach Me
+
+Feel free to explore my repositories and reach out for any inquiries or exciting collaborations! You can also connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-alejandro-caicedo-benavides-7a4b1121b).
 
 Keep the passion alive! 🚀
 
